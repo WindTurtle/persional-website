@@ -13,7 +13,7 @@ function index() {
         ></div>
         <div style={{ zIndex: 3 }} className="container mx-auto relative">
           <div className="grid grid-cols-2">
-            <div className="flex justify-center items-center">
+            <div className="flex justify-start items-center">
               <div className="flex w-5/6 h-screen flex-col justify-center space-y-8">
                 <div className="text-5xl text-main font-semibold">
                   FRONT-END DEVELOPER

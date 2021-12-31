@@ -26,6 +26,7 @@ module.exports = {
         light: "rgba(24, 100, 215, 0.43)",
       },
       secondary: "#2E2D56",
+      border: "#6D6D6D",
       light: "#929292",
 
       white: "#FFFFFF",

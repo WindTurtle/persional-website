@@ -9,7 +9,7 @@ import { ReactComponent as Transport } from "../../asset/icons/metro.svg";
 
 function index() {
   return (
-    <section className="container my-12 mx-auto">
+    <section>
       <div className="grid grid-cols-3 bg-white items-center">
         <div>
           <div className="w-full h-full flex justify-center items-center">
