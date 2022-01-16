@@ -51,15 +51,15 @@ function index() {
         </div>
         <div className="relative w-full h-full mx-auto">
           <div className="absolute w-full bottom-10">
-            <img src={AboutMeImg} alt="my" />
+            <img className="mx-auto" src={AboutMeImg} alt="my" />
           </div>
         </div>
         <div>
-          <h3 className="font-medium text-2xl text-primary-main uppercase mb-2">
+          <h3 className="font-medium text-2xl text-primary-main uppercase mb-2 tracking-wider">
             about me
           </h3>
-          <h5 className="font-semibold text-3xl text-secondary mb-6">
-            Front-end Developer
+          <h5 className="font-semibold text-3xl text-secondary mb-6 capitalize">
+            front-end engineer
           </h5>
           <p className="text-sub mb-3">
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo,

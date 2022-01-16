@@ -9,10 +9,10 @@ function index({ data }) {
       >
         <img className="p-6" src={data.icon} alt={data.title} />
       </div>
-      <h4 className="text-2xl font-semibold text-secondary my-2">
+      <h4 className="text-2xl font-semibold text-secondary my-2 tracking-wider">
         {data.title}
       </h4>
-      <p className="text-sub text-base">{data.description}</p>
+      <p className="text-sub text-base tracking-wider">{data.description}</p>
     </div>
   );
 }

@@ -30,11 +30,11 @@ function index() {
   ];
   return (
     <div>
-      <div className="text-center mb-16">
-        <h4 className="text-primary-main uppercase font-medium text-2xl mb-3">
+      <div className="text-center mb-24">
+        <h4 className="text-primary-main uppercase font-medium text-2xl mb-3 tracking-wider">
           what i do
         </h4>
-        <div className="text-4xl font-semibold text-secondary">
+        <div className="text-4xl font-semibold text-secondary tracking-wider">
           Specializing In
         </div>
       </div>

@@ -15,8 +15,8 @@ function index() {
           <div className="grid grid-cols-2">
             <div className="flex justify-start items-center">
               <div className="flex w-5/6 h-screen flex-col justify-center space-y-8">
-                <div className="text-5xl text-main font-semibold">
-                  FRONT-END DEVELOPER
+                <div className="text-5xl text-main font-semibold uppercase">
+                  front-end engineer
                 </div>
                 <p className="text-xl text-main font-normal">
                   Lorem Ipsum is simply dummy text of the printing and
@@ -26,10 +26,10 @@ function index() {
                   specimen book.
                 </p>
                 <div className="flex space-x-8">
-                  <div className="h-12 w-32 font-semibold text-primary-main transform hover:scale-105 transition-transform cursor-pointer bg-white rounded-[50px] flex justify-center items-center">
+                  <div className="h-12 w-32 font-semibold text-primary-main transform hover:scale-105 transition-transform cursor-pointer bg-white rounded-[50px] flex justify-center items-center tracking-wider">
                     Hire me
                   </div>
-                  <div className="h-12 w-32 font-semibold text-white border border-white transform hover:scale-105 transition-transform cursor-pointer bg-brandb-default rounded-[50px] flex justify-center items-center">
+                  <div className="h-12 w-32 font-semibold text-white border border-white transform hover:scale-105 transition-transform cursor-pointer bg-brandb-default rounded-[50px] flex justify-center items-center tracking-wider">
                     Get CV
                   </div>
                 </div>
